@@ -107,5 +107,9 @@
     "Garantie auf alle Arbeiten",
     "Schnelle Reaktion auf Anfragen"
   ],
-  "content_enriched": true
+  "content_enriched": true,
+  "makeover_stages": [
+    "lokal"
+  ],
+  "makeover_version": 7
 }
